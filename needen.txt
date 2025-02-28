@@ -1,0 +1,6 @@
+pip install selenium
+pip install webdriver-manager
+
+python -m venv venv
+venv\scripts\activate
+deactivate
